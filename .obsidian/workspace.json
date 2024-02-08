@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "e07cbe1f9f75ebf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f0eacdf8a467d9",
+        "type": "tabs",
+        "dimension": 49.08180300500835,
+        "children": [
+          {
+            "id": "854e069d1a0c15f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cf191fda1d1622f5",
+        "type": "tabs",
+        "dimension": 50.918196994991646,
+        "children": [
+          {
+            "id": "fd7ea64b06a4eaf0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2ac8d2361c06d3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a4210bf643539af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b59aa647e307b3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ba9e05c604e0042",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8c56b032e1ae6f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fa9f17cfc379a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44ac8d9c879725b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4b7a7d91545e703",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc93f8842049603",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dabace381d3cd29f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b008393babeceea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6e8b677b23ba75c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "accf0b516b57796d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 592.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false
+    }
+  }
+}
